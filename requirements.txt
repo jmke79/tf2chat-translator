@@ -1,0 +1,13 @@
+# TF2 Chat Translator Dependencies
+
+# Language detection
+langdetect>=1.0.9
+
+# Translation (uses Google Translate for free)
+deep-translator>=1.11.4
+
+# Pretty terminal output (for console version)
+rich>=13.0.0
+
+# Windows API for overlay click-through (Windows only)
+pywin32>=306; sys_platform == 'win32'

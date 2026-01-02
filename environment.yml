@@ -1,0 +1,12 @@
+name: tf2translator
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - langdetect>=1.0.9
+    - deep-translator>=1.11.4
+    - rich>=13.0.0
+    - pywin32>=306
