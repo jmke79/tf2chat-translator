@@ -32,7 +32,7 @@ Player1: Hello everyone!
 ```
 
 ### Overlay Mode (Windows)
-![Overlay Preview](https://i.imgur.com/placeholder.png)
+![Overlay Preview](https://github.com/jmke79/tf2chat-translator/blob/main/image-2026-01-02-102815.png?raw=true)
 - Transparent background
 - Click-through (doesn't capture mouse)
 - Stays on top of game
